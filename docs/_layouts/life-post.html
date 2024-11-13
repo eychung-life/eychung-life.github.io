@@ -1,0 +1,20 @@
+---
+layout: page
+---
+
+{% assign post_date = page.date | date: "%Y-%m-%d" %}
+
+<head>
+    <title>{{ page.title }}</title>
+    <link href="/assets/css/photoswipe.css" rel="stylesheet">
+    <script src="/assets/js/life-post.js" type="module"></script>
+</head>
+
+<article>
+    <h1>{{ page.subtitle }}</h1>
+    <p class="post-meta">{{ page.datePublished | default: page.date | date: "%B %d, %Y" }}</p>
+</article>
+
+{{ content }}
+
+<button id="return-to-top">Top</button>

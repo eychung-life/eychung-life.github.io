@@ -1,0 +1,51 @@
+---
+layout: base
+---
+
+<head>
+  <link rel="stylesheet" href="/assets/css/photoswipe.css">
+  <script type="module" src="/assets/js/home.js"></script>
+</head>
+
+<section id="hero" class="parallax-section">
+  <div class="parallax-background"></div>
+  <div class="content">
+    <h1 class="hero-text">Welcome</h1>
+  </div>
+</section>
+
+<main class="home-page-content" aria-label="Content">
+  <div class="wrapper">
+
+    {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading" id="posts">{{ page.list_title | default: "Posts" }}</h2>
+    <div class="section-container">
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+        <li>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if post.cover -%}
+          <div>
+            {% assign post_date = post.date | date: '%Y-%m-%d'%}
+            {% assign cover_image_path = "/assets/images/" | append: post_date | append: "/" | append: post.cover %}
+          </div>
+          {%- endif -%}
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          {%- if site.show_excerpts -%}
+          <p>{{ post.excerpt }}</p>
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      </ul>
+    </div>
+    {%- endif -%}
+
+    <button id="return-to-top">Top</button>
+
+  </div>
+</main>

@@ -1,0 +1,91 @@
+.home-page-content {
+    background-color: var(--bg-primary);
+    padding-top: 20px;
+}
+
+.parallax-background {
+    background-color: rgba(0, 0, 0, 0.9);
+    height: 100%;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    transform: translateZ(0);
+    width: 100%;
+    will-change: transform;
+    z-index: -1;
+}
+
+.parallax-background::before {
+    background-image: url("../images/hero.jpg");
+    background-position: center;
+    background-size: cover;
+    content: "";
+    height: 100%;
+    left: 0;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+.parallax-section {
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+
+.hero-text {
+    color: white;
+    font:
+        20px "Lato",
+        sans-serif;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+#return-to-top {
+    background-color: var(--bg-secondary);
+    border-radius: 5px;
+    border: none;
+    bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    color: var(--text-secondary);
+    cursor: pointer;
+    display: none;
+    font-size: 16px;
+    padding: 10px 15px;
+    position: fixed;
+    right: 20px;
+    transition: opacity 0.3s ease;
+    z-index: 1000;
+}
+
+#return-to-top:hover {
+    color: var(--text-primary);
+}
+
+#toc {
+    align-items: center;
+    background-color: var(--bg-secondary);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+#toc a {
+    color: var(--text-secondary);
+    font-weight: bold !important;
+    font: $action-bar-font;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+#toc a:hover {
+    color: var(--text-primary);
+    text-decoration: none;
+}

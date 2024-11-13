@@ -1,0 +1,60 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ " /" | relative_url }}"></data>
+
+    <div class="wrapper">
+
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                <ul class="contact-list">
+                    <li class="p-name">
+                        {%- if site.author -%}
+                        {{ site.author | escape }}
+                        {%- else -%}
+                        {{ site.title | escape }}
+                        {%- endif -%}
+                    </li>
+                    {%- if site.email -%}
+                    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                    {%- endif -%}
+                </ul>
+                <ul class="contact-list">
+                    <li>
+                        <button class="btn-theme-icon" onclick="toggleDarkMode()">
+                            <svg id="light-icon" height="30" width="30">
+                                <circle fill="currentColor" cx="15" cy="15" r="6" />
+
+                                <line id="ray" stroke="currentColor" stroke-width="2" stroke-linecap="round" x1="15"
+                                    y1="1" x2="15" y2="4"></line>
+
+                                <use href="#ray" transform="rotate(45 15 15)" />
+                                <use href="#ray" transform="rotate(90 15 15)" />
+                                <use href="#ray" transform="rotate(135 15 15)" />
+                                <use href="#ray" transform="rotate(180 15 15)" />
+                                <use href="#ray" transform="rotate(225 15 15)" />
+                                <use href="#ray" transform="rotate(270 15 15)" />
+                                <use href="#ray" transform="rotate(315 15 15)" />
+                            </svg>
+                            <svg id="dark-icon" height="30" width="30">
+                                <path fill="currentColor" d="M 23, 5 A 12 12 0 1 0 23, 25 A 12 12 0 0 1 23, 5" />
+                            </svg>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="footer-col footer-col-2">
+                {%- include social.html -%}
+            </div>
+
+            <div class="footer-col footer-col-3">
+                <p>{{- site.description | escape -}}</p>
+            </div>
+        </div>
+
+    </div>
+
+</footer>
+
+<script src="/assets/js/footer.js"></script>

@@ -1,0 +1,13 @@
+$action-bar-font:
+    12px "Lato",
+    sans-serif;
+
+.action-bar {
+    align-items: center;
+    background-color: var(--bg-secondary);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}

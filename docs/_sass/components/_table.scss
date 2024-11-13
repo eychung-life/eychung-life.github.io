@@ -1,0 +1,16 @@
+.table-header {
+    background-color: var(--bg-secondary);
+    color: var(--text-secondary);
+    font:
+        16px "Lato",
+        sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+.table-subheader {
+    background-color: var(--bg-secondary);
+    color: var(--text-secondary);
+    padding: 10px;
+}
