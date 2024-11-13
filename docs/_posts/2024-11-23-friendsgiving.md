@@ -54,13 +54,13 @@ Transmission Sent: October 17, 30 BBY at 19:01
 
   <div style="flex: 1; text-align: center; border: 1px solid #ddd;">
     <div class="table-header">Eric</div>
-    <img src="/assets/images/avatar-eric.png" alt="Eric" style="min-width: 165px; height: auto; object-fit: cover;">
+    <img src="/assets/images/2024-11-23/avatar-eric.png" alt="Eric" style="min-width: 165px; height: auto; object-fit: cover;">
     <div class="table-subheader"><em>As Eryndor Solara</em><br><span style="font-size: 0.75em; font-weight: bold;">PADAWAN</span></div>
   </div>
 
   <div style="flex: 1; text-align: center; border: 1px solid #ddd;">
     <div class="table-header">Lisa</div>
-    <img src="/assets/images/avatar-lisa.png" alt="Lisa" style="min-width: 165px; height: auto; object-fit: cover;">
+    <img src="/assets/images/2024-11-23/avatar-lisa.png" alt="Lisa" style="min-width: 165px; height: auto; object-fit: cover;">
     <div class="table-subheader"><em>As Lysa Lume</em><br><span style="font-size: 0.75em; font-weight: bold;">LIGHTBRINGER</span></div>
   </div>
 
@@ -74,19 +74,19 @@ Transmission Sent: October 17, 30 BBY at 19:01
 
   <div style="flex: 1; text-align: center; border: 1px solid #ddd;">
     <div class="table-header">Kevin</div>
-    <img src="/assets/images/avatar-lau-fang.png" alt="Kevin" style="min-width: 165px; height: auto; object-fit: cover;">
+    <img src="/assets/images/2024-11-23/avatar-lau-fang.png" alt="Kevin" style="min-width: 165px; height: auto; object-fit: cover;">
     <div class="table-subheader"><em>As Darth Kae Ven'Fang</em><br><span style="font-size: 0.75em; font-weight: bold;">SITH WARRIOR</span></div>
   </div>
 
   <div style="flex: 1; text-align: center; border: 1px solid #ddd;">
     <div class="table-header">Lucky</div>
-    <img src="/assets/images/avatar-lucky.png" alt="Lucky" style="min-width: 165px; height: auto; object-fit: cover;">
+    <img src="/assets/images/2024-11-23/avatar-lucky.png" alt="Lucky" style="min-width: 165px; height: auto; object-fit: cover;">
     <div class="table-subheader"><em>As Luc'thra Nythis</em><br><span style="font-size: 0.75em; font-weight: bold;">INQUISITOR</span></div>
   </div>
 
   <div style="flex: 1; text-align: center; border: 1px solid #ddd;">
     <div class="table-header">Raymond</div>
-    <img src="/assets/images/avatar-raymond.png" alt="Raymond" style="min-width: 165px; height: auto; object-fit: cover;">
+    <img src="/assets/images/2024-11-23/avatar-raymond.png" alt="Raymond" style="min-width: 165px; height: auto; object-fit: cover;">
     <div class="table-subheader"><em>As Darth Raemir</em><br><span style="font-size: 0.75em; font-weight: bold;">SITH LORD</span></div>
   </div>
 
@@ -100,25 +100,25 @@ Transmission Sent: October 17, 30 BBY at 19:01
 
   <div style="flex: 1; text-align: center; border: 1px solid #ddd;">
     <div class="table-header">Josh</div>
-    <img src="/assets/images/avatar-josh.png" alt="Josh" style="min-width: 165px; height: auto; object-fit: cover;">
+    <img src="/assets/images/2024-11-23/avatar-josh.png" alt="Josh" style="min-width: 165px; height: auto; object-fit: cover;">
     <div class="table-subheader"><em>As Jossa Wyndar</em><br><span style="font-size: 0.75em; font-weight: bold;">PEACEKEEPER</span></div>
   </div>
 
   <div style="flex: 1; text-align: center; border: 1px solid #ddd;">
     <div class="table-header">Alice</div>
-    <img src="/assets/images/avatar-alice.png" alt="Alice" style="min-width: 165px; height: auto; object-fit: cover;">
+    <img src="/assets/images/2024-11-23/avatar-alice.png" alt="Alice" style="min-width: 165px; height: auto; object-fit: cover;">
     <div class="table-subheader"><em>As Alia Lightweaver</em><br><span style="font-size: 0.75em; font-weight: bold;">JEDI CONSULAR</span></div>
   </div>
 
   <div style="flex: 1; text-align: center; border: 1px solid #ddd;">
     <div class="table-header">Kevin</div>
-    <img src="/assets/images/avatar-nagata.png" alt="Kevin" style="min-width: 165px; height: auto; object-fit: cover;">
+    <img src="/assets/images/2024-11-23/avatar-nagata.png" alt="Kevin" style="min-width: 165px; height: auto; object-fit: cover;">
     <div class="table-subheader"><em>As Master Nagoda</em><br><span style="font-size: 0.75em; font-weight: bold;">JEDI MASTER</span></div>
   </div>
 
   <div style="flex: 1; text-align: center; border: 1px solid #ddd;">
     <div class="table-header">Cindy</div>
-    <img src="/assets/images/avatar-cindy.png" alt="Cindy" style="min-width: 165px; height: auto; object-fit: cover;">
+    <img src="/assets/images/2024-11-23/avatar-cindy.png" alt="Cindy" style="min-width: 165px; height: auto; object-fit: cover;">
     <div class="table-subheader"><em>As ???</em><br><span style="font-size: 0.75em; font-weight: bold;">???</span></div>
   </div>
 
@@ -129,6 +129,14 @@ Transmission Sent: October 17, 30 BBY at 19:01
 <h2 id="menu">Menu</h2>
 <div style="text-align: center; border: 1px dotted #ddd; padding: 20px">
     <p>
+        <strong>Appetizers</strong>
+        <br>
+        <strong style="font-size: 0.75em; text-transform: uppercase;">C-Wings vs. TIE Fighters</strong>
+        <br>
+        Thai Glazed Chicken Wings, Green Onion
+        <br><br><br>
+        <strong>Mains</strong>
+        <br>
         <strong style="font-size: 0.75em; text-transform: uppercase;">Endor Harvest</strong>
         <br>
         Spring Greens, Crimson Apples, Roasted Cashews, Feta, Vinaigrette
@@ -143,7 +151,13 @@ Transmission Sent: October 17, 30 BBY at 19:01
         <br><br>
         <strong style="font-size: 0.75em; text-transform: uppercase;">Wookie Wild Stew</strong>
         <br>
-        Beef Stew, Onion, Carrots, Herbs
+        Beef Stew, Onions, Carrots, Herbs
+        <br><br><br>
+        <strong>Drinks</strong>
+        <br>
+        <strong style="font-size: 0.75em; text-transform: uppercase;">Galatic Spiced Cider</strong>
+        <br>
+        Apple Cider, Mulling Spices
         <br><br>
         <small style="font-size: 0.6em;">* May contain pieces of Jedi cloaks</small>
     </p>
@@ -152,6 +166,9 @@ Transmission Sent: October 17, 30 BBY at 19:01
 <br>
 
 <h2 id="activities">Activities</h2>
-If you have any Star Wars (or general space themed) board games, please bring!
-<br>
-...
+### Star Wars X-Wing Miniatures Game
+**Players**: 2
+<br><br>
+<img src="/assets/images/2024-11-23/star-wars-board-game.jpg" alt="Star Wars Board Game">
+<br><br>
+Please bring any other Star Wars (or general space themed) board games!
