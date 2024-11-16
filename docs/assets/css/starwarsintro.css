@@ -25,14 +25,17 @@ html {
     background-color: #000;
     overflow: hidden;
     position: relative;
+    display: flex;
+    align-items: center;
 }
 
 .star-wars-intro p.intro-text {
     position: relative;
-    max-width: 16em;
+    max-width: 15em;
     font-size: 200%;
     font-weight: 400;
     margin: 20% auto;
+    padding: 10px;
     color: #4ee;
     opacity: 0;
     z-index: 1;
@@ -49,7 +52,7 @@ html {
     margin-right: auto;
     position: absolute;
     z-index: 3;
-    width: 98%;
+    width: 100%;
     height: 50em;
     bottom: 0;
     font-size: 80px;
@@ -107,9 +110,9 @@ html {
 
 .star-wars-intro .main-logo {
     position: absolute;
+    align-items: center;
     width: 2.6em;
     left: 50%;
-    top: 20vh;
     font-size: 10em;
     text-align: center;
     margin-left: -1.3em;
@@ -131,7 +134,7 @@ html {
 }
 
 .star-wars-intro .main-logo > img {
-    max-width: 100%;
+    max-width: 95%;
 }
 
 @-webkit-keyframes intro {
