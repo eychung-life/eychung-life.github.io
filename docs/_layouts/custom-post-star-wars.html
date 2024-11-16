@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+
+<head>
+  {%- include head.html -%}
+  <link href="/assets/css/starwarsintro.css" rel="stylesheet">
+</head>
+
+<body>
+
+  {%- include header.html -%}
+
+  <div class="home">
+
+    <div class="star-wars-intro">
+      <!-- Blue intro text -->
+      <p class="intro-text">
+        A friendsgiving happening in a galaxy far, far away...
+      </p>
+
+      <!-- Logo image -->
+      <h2 class="main-logo">
+        <img src="/assets/images/2024-11-23/star-wars-logo.svg">
+      </h2>
+
+      <!-- Scrolling content -->
+      <div class="main-content">
+
+        <div class="title-content">
+          <center>EPISODES I.V<br>The Balance of Gathering</center>
+          <br>
+          The Galactic Republic stands at a crossroads of peace and renewal, marked by a historic
+          summit today that brings leaders and dignitaries together to celebrate unity and foster
+          new alliances.
+          <br><br>
+          The Jedi Order, ever vigilant, oversees the event, sensing the Force's
+          delicate balance.
+          <br><br>
+          As light and dark converge, the gathering becomes a stage for all aspects of the Force.
+          While some strive for harmony, others move unseen, planting seeds of ambition and
+          discord.
+          <br><br>
+          Yet, for now, the summit stands as a fragile bridge, where both light and
+          shadow meet, shaping the galaxy's destiny.
+        </div>
+      </div>
+    </div>
+
+    <main class="home-page-content" aria-label="Content">
+      <div class="wrapper">
+        {% assign post_date = page.date | date: "%Y-%m-%d" %}
+
+        <article>
+          <h1>{{ page.subtitle }}</h1>
+          <p class="post-meta">{{ page.datePublished | default: page.date | date: "%B %d, %Y" }}</p>
+        </article>
+
+        {{ content }}
+
+        <button id="return-to-top">Top</button>
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+</body>
+
+</html>

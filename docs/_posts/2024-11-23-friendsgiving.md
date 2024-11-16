@@ -1,26 +1,11 @@
 ---
-layout: life-post
+layout: custom-post-star-wars
 title: "The Force Unites Us"
 subtitle: "A Star Wars Themed Friendsgiving"
 date: 2024-11-23
 categories: event
 excerpt: "We gather as one, beyond Jedi and Sith, celebrating unity in diversity. Tonight, in shared stories, meals, and costumes, we honor the Force that connects us across galaxies. May it be with us all."
 ---
-
-<style>
-.equal-columns-table-half td {
-    width: 50%;
-    text-align: center;
-}
-.equal-columns-table-thirds td {
-    width: 33%;
-    text-align: center;
-}
-.equal-columns-table-quarters td {
-    width: 25%;
-    text-align: center;
-}
-</style>
 
 <nav id="toc" class="action-bar">
     <div class="nav-item"><a href="#lore">Lore</a></div>
@@ -172,3 +157,5 @@ Transmission Sent: October 17, 30 BBY at 19:01
 <img src="/assets/images/2024-11-23/star-wars-board-game.jpg" alt="Star Wars Board Game">
 <br><br>
 Please bring any other Star Wars (or general space themed) board games!
+
+<br>
