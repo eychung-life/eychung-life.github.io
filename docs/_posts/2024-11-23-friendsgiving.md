@@ -225,25 +225,25 @@ Transmission Sent: October 17, 30 BBY at 19:01
         <br>
         <strong style="font-size: 0.75em; text-transform: uppercase;">Endor Harvest</strong>
         <br>
-        Spring Greens, Crimson Apples, Roasted Cashews, Feta, Vinaigrette
+        Sweet Spring Greens, Various Apples, Pomegranates, Roasted Nuts and Seeds, Dried Beet Chips, Feta, Vinaigrette
         <br>
         <small>(Dairy, Nuts, Seeds)</small>
         <br><br>
         <strong style="font-size: 0.75em; text-transform: uppercase;">Remanents of Order 66</strong>
         <br>
-        Mashed Potatoes*, Butter, Chives
+        Mashed Potatoes*, Half-And-Half, Butter, Green Onions, and Served with Turkey Gravy
         <br>
         <small>(Dairy)</small>
         <br><br>
         <strong style="font-size: 0.75em; text-transform: uppercase;">Wookie Wild Stew</strong>
         <br>
-        Beef Stew, Onions, Carrots, Herbs
+        Beef Stew, Onions, Carrots, Potatoes, Mushrooms, Peas, Parsley
         <br><br><br>
         <strong>Drinks</strong>
         <br>
         <strong style="font-size: 0.75em; text-transform: uppercase;">Galatic Spiced Cider</strong>
         <br>
-        Apple Cider, Mulling Spices
+        Apple Juice, Mulling Spices
         <br><br>
         <small style="font-size: 0.6em;">* May contain pieces of Jedi cloaks</small>
     </p>
