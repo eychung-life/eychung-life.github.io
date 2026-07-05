@@ -22,7 +22,7 @@ clicking (or tapping) the corners of each page.
 
 Image sources:
 - Photography: [eychung.github.io](https://eychung.github.io/)
-- Cards: [tcgplayer.com](https://www.tcgplayer.com/)
+- Cards: [artofpkm.com](https://www.artofpkm.com)
 
 <div class="binder">
   <!-- Page 1: Vintage -->
@@ -30,31 +30,31 @@ Image sources:
     <div class="binder-page-photo">
       <div class="binder-page-cards">
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/cyndaquil-neo-premium.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/cyndaquil-neo-premium.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/quilava-neo-premium.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/quilava-neo-premium.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/typhlosion-neo-premium.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/typhlosion-neo-premium.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/charmander-rocket-gang.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/charmander-rocket-gang.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/basic-fire-energy-neo.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/basic-fire-energy-neo.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/dark-charmeleon-rocket-gang.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/dark-charmeleon-rocket-gang.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/blaine's-magmar-city-gym-decks.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/blaine's-magmar-city-gym-decks.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/blaine-city-gym-decks.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/blaine-city-gym-decks.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/blaine's-moltres-challenge-from-the-darkness.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/blaine's-moltres-challenge-from-the-darkness.webp" alt="Card">
         </div>
       </div>
     </div>
@@ -65,31 +65,31 @@ Image sources:
     <div class="binder-page-photo">
       <div class="binder-page-cards">
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/cyndaquil-neo-premium.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/cyndaquil-neo-premium.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/quilava-neo-premium.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/quilava-neo-premium.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/typhlosion-neo-premium.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/typhlosion-neo-premium.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/charmander-rocket-gang.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/charmander-rocket-gang.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/basic-fire-energy-neo.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/basic-fire-energy-neo.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/dark-charmeleon-rocket-gang.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/dark-charmeleon-rocket-gang.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/blaine's-magmar-city-gym-decks.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/blaine's-magmar-city-gym-decks.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/blaine-city-gym-decks.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/blaine-city-gym-decks.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/vintage/blaine's-moltres-challenge-from-the-darkness.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/vintage/blaine's-moltres-challenge-from-the-darkness.webp" alt="Card">
         </div>
       </div>
     </div>
@@ -100,31 +100,31 @@ Image sources:
     <div class="binder-page-photo">
       <div class="binder-page-cards">
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/pupitar-holon-research-tower.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/pupitar-holon-research-tower.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/aerodactyl-holon-phantom.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/aerodactyl-holon-phantom.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/delta-species/latias-holon-phantom.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/latias-holon-phantom.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/tyranitar-holon-research-tower.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/tyranitar-holon-research-tower.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/rayquaza-pcg-p-promotional-cards.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/rayquaza-pcg-promotional-cards.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/salamence-holon-research-tower.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/salamence-holon-research-tower.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/delta-species/kingdra-holon-phantom.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/kingdra-holon-phantom.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/flareon-holon-research-tower.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/flareon-holon-research-tower.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/mewtwo-holon-research-tower.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/mewtwo-holon-research-tower.webp" alt="Card">
         </div>
       </div>
     </div>
@@ -134,31 +134,31 @@ Image sources:
     <div class="binder-page-photo">
       <div class="binder-page-cards">
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/pupitar-holon-research-tower.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/pupitar-holon-research-tower.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/aerodactyl-holon-phantom.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/aerodactyl-holon-phantom.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/delta-species/latias-holon-phantom.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/latias-holon-phantom.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/tyranitar-holon-research-tower.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/tyranitar-holon-research-tower.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/rayquaza-pcg-p-promotional-cards.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/rayquaza-pcg-promotional-cards.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/salamence-holon-research-tower.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/salamence-holon-research-tower.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item">
-          <img src="/assets/images/2025-05-20/cards/delta-species/kingdra-holon-phantom.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/kingdra-holon-phantom.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/flareon-holon-research-tower.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/flareon-holon-research-tower.webp" alt="Card">
         </div>
         <div class="binder-page-cards-item highlighted">
-          <img src="/assets/images/2025-05-20/cards/delta-species/mewtwo-holon-research-tower.jpg" alt="Card">
+          <img src="/assets/images/2025-05-20/cards/pcg/mewtwo-holon-research-tower.webp" alt="Card">
         </div>
       </div>
     </div>
