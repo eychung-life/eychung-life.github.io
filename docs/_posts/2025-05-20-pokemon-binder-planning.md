@@ -276,12 +276,9 @@ Image source for cards: [artofpkm.com](https://www.artofpkm.com)
 
 <script>
   let binderInitialized = false;
+  let lastBinderHeight = null;
 
   function initializeBinder() {
-    if (binderInitialized) {
-      return;
-    }
-
     const binder = $(".binder");
     if (!binder.length) {
       return;
@@ -289,6 +286,7 @@ Image source for cards: [artofpkm.com](https://www.artofpkm.com)
 
     const image = document.querySelector('.binder-page-photo img');
     if (!image) {
+      window.setTimeout(initializeBinder, 100);
       return;
     }
 
@@ -300,14 +298,27 @@ Image source for cards: [artofpkm.com](https://www.artofpkm.com)
       return;
     }
 
-    const containerWidth = binder.parent().width();
-    const scale = containerWidth / (imageWidth * 2); // *2 because turn.js shows 2 pages
-    const borderOverhead = 9; // 2px border * 3 rows + 3 padding/gaps
-    const newHeight = imageHeight * scale - borderOverhead;
+    const containerWidth = Math.max(240, binder.parent().width());
+    const scale = containerWidth / (imageWidth * 2);
+    const borderOverhead = 9;
+    const newHeight = Math.max(240, imageHeight * scale - borderOverhead);
 
-    if (newHeight > 0) {
+    if (!binderInitialized) {
       binder.turn({height: newHeight});
       binderInitialized = true;
+    } else if (lastBinderHeight !== newHeight) {
+      binder.turn('size', containerWidth, newHeight);
+    }
+
+    lastBinderHeight = newHeight;
+  }
+
+  function handleResize() {
+    if (binderInitialized) {
+      window.clearTimeout(window._binderResizeTimer);
+      window._binderResizeTimer = window.setTimeout(initializeBinder, 120);
+    } else {
+      initializeBinder();
     }
   }
 
@@ -318,7 +329,8 @@ Image source for cards: [artofpkm.com](https://www.artofpkm.com)
   }
 
   window.addEventListener('load', initializeBinder);
-  window.addEventListener('resize', initializeBinder);
+  window.addEventListener('resize', handleResize);
+  window.addEventListener('orientationchange', handleResize);
 </script>
 
 <div id="card-modal" class="card-modal">
